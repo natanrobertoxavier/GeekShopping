@@ -1,0 +1,12 @@
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.deps.json
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\bin\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.AssemblyReference.cache
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfoInputs.cache
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.AssemblyInfo.cs
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.csproj.CoreCompileInputs.cache
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.dll
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\refint\GeekShopping.MessageBus.dll
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\GeekShopping.MessageBus.pdb
+C:\Code\dotnet6\S19_ErudioMicroservices.NET6-RabbitMQ\GeekShopping\GeekShopping.MessageBus\obj\Debug\net6.0\ref\GeekShopping.MessageBus.dll
